@@ -10,15 +10,6 @@
 <sparkle:criticalUpdate/>
 </sparkle:tags>
 </item>
-<!--  The best chosen release  -->
-<item>
-<title>Version 3.0</title>
-<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="3.0" sparkle:os="android"/>
-<sparkle:deltas>
-<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="3.0" sparkle:deltaFrom="2.0" length="1235" type="application/octet-stream" sparkle:edSignature="..."/>
-<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="3.0" sparkle:deltaFrom="1.0" length="1485" type="application/octet-stream" sparkle:edSignature="..."/>
-</sparkle:deltas>
-</item>
 <!--  A release testing minimumSystemVersion  -->
 <item>
 <title>Version 5.0.0</title>
