@@ -5,7 +5,7 @@
 <title>Version 2.0</title>
 <description>desc Версия</description>
 <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-<enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0"/>
+<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="2.0"/>
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
@@ -13,10 +13,10 @@
 <!--  The best chosen release  -->
 <item>
 <title>Version 3.0</title>
-<enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android"/>
+<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="3.0" sparkle:os="android"/>
 <sparkle:deltas>
-<enclosure url="http://localhost:1337/3.0_from_2.0.patch" sparkle:version="3.0" sparkle:deltaFrom="2.0" length="1235" type="application/octet-stream" sparkle:edSignature="..."/>
-<enclosure url="http://localhost:1337/3.0_from_1.0.patch" sparkle:version="3.0" sparkle:deltaFrom="1.0" length="1485" type="application/octet-stream" sparkle:edSignature="..."/>
+<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="3.0" sparkle:deltaFrom="2.0" length="1235" type="application/octet-stream" sparkle:edSignature="..."/>
+<enclosure url="https://play.google.com/store/apps/details?id=com.margex.margex_mobile" sparkle:version="3.0" sparkle:deltaFrom="1.0" length="1485" type="application/octet-stream" sparkle:edSignature="..."/>
 </sparkle:deltas>
 </item>
 <!--  A release testing minimumSystemVersion  -->
