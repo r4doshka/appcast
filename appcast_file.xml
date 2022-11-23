@@ -9,7 +9,7 @@
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="4.15.0" sparkle:os="android" />
             <sparkle:version>4.15.0</sparkle:version>
-            <sparkle:minimumAutoupdateVersion>4.0.0</sparkle:minimumAutoupdateVersion>
+            <sparkle:minimumAutoupdateVersion>4.15.0</sparkle:minimumAutoupdateVersion>
 </item>
 <!--  A joke release testing maximumSystemVersion  -->
 
